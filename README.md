@@ -1,4 +1,4 @@
-# anthropomorphic-arm
+# Arm, Anthropomorphic, Single
 
 The arm consist of 3 rotational joints and the wrist consist of 3 rotational joints.
 
