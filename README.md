@@ -1,6 +1,6 @@
-# Arm, Anthropomorphic, Single
+# Anthropomorphic arm
 
-The arm consist of 3 rotational joints and the wrist consist of 3 rotational joints.
+The arm and the wrist consist of three revolute joints each.
 
  Goals of the project: (estimated timeline of progress in parenthesis)
  - Create nodes for kinematics and dynamics, and successfully simulate a model in Gazebo. (1 month, march)
